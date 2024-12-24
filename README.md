@@ -30,3 +30,15 @@ Feel free to browse my repositories and reach out to me if you'd like to collabo
 <!--   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> -->
 <!--   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
 </div>
+
+# Main Projects
+
+## <a href="https://github.com/valcusto/price_elasticity_project">Price elasticity</a>
+
+**Business problem:** B&H Photo Video is an American retailer specializing in photography and videography that operates primarily through online e-commerce. B&H intends to forecast the revenue for a campaign that involves offering a 10% discount on its mirrorless cameras.
+
+**Solution:** For this problem, I calculated the price elasticity of the products in the mirrorless camera category at B&H Photo Video.
+
+**Conclusion:** The price elasticity analysis of the products in the mirrorless camera category in B&H Photo and Video shows that from 13 products in this category, the Canon - EOS Rebel SL2 DSLR Camera Body Deluxe Kit and Panasonic - Lumix G85 Mirrorless Camera with 12-60mm Lens – Black have statistically significant price elasticity. Based on the price elasticity calculations conducted in this project, it is evident that the company has the potential to achieve a remarkable revenue growth of over 700%. 
+
+
