@@ -1,13 +1,24 @@
 ## Hey there, I'm Valéria Custódio 👋
 
-I'm a Researcher and data analyst interested in providing companies with insights taken from data using my experimental design, data visualization, and statistics skills.
+I'm a researcher and data analyst interested in providing companies with insights taken from data using my experimental design, data visualization, and statistics skills.
 
-My bachelor's was in Biology. In my PhD, I focused mainly on unraveling microbial and environmental cues regulating maize development by generating and analyzing layers of omics and physiological datasets. This gave me access to learn R and Python programming languages and made me discover the world of statistics, data analysis, and machine learning.
+I hold a bachelor's degree in Biology. During my PhD in molecular biology, I focused mainly on unraveling microbial and environmental cues that regulate maize development by generating and analyzing layers of omics and physiological datasets. 
 
-Feel free to browse my repositories and reach out to me if you'd like to collaborate!
+Throughout my research journey, I get access to learn R and Python programming languages and made me discover the world of statistics, data analysis, and machine learning.
 
+Feel free to browse my repositories and reach out to me if you'd like to collaborate or discuss exciting projects!
 
 📫 **Contact me:** valcusto@gmail.com | [LinkedIn profile link]
+
+## 🛠️ Tools I Work With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 
 
 <!--
