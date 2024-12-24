@@ -8,7 +8,7 @@ Throughout my research journey, I get access to learn R and Python programming l
 
 Feel free to browse my repositories and reach out to me if you'd like to collaborate or discuss exciting projects!
 
-📫 **Contact me:** valcusto@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriacustodio/)
+📫 **Contact me:** valcusto@gmail.com or <a href="https://www.linkedin.com/in/valeriacustodio/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"></a>
 
 ## 🛠️ Tools I Work With
 
