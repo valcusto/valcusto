@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Valéria Custódio and welcome to my GitHib
 
 <!--
 **valcusto/valcusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
