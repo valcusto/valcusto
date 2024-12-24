@@ -16,9 +16,9 @@ Feel free to browse my repositories and reach out to me if you'd like to collabo
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQLite Badge](https://img.shields.io/badge/SQLite-Used%20for%20Data%20Storage-%23003B57?logo=sqlite&style=for-the-badge)
-![VS Code Badge](https://img.shields.io/badge/VS%20Code-Favorite%20IDE-%23007ACC?logo=visualstudiocode&style=for-the-badge)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter%20Notebook-Interactive%20Coding-%23F37626?logo=jupyter&style=for-the-badge)
+![SQLite Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&style=for-the-badge)
+![VS Code Badge](https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode&style=for-the-badge)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-%23F37626?logo=jupyter&style=for-the-badge)
 
 
 
