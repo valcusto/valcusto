@@ -10,6 +10,9 @@ Feel free to browse my repositories and reach out to me if you'd like to collabo
 
 📫 **Contact me:** valcusto@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriacustodio/)
 
+Contact me: [valcusto@gmail.com](mailto:valcusto@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-link)
+
+
 
 ## 🛠️ Tools I Work With
 
