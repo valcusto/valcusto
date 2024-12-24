@@ -17,7 +17,7 @@ Feel free to browse my repositories and reach out to me if you'd like to collabo
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&style=for-the-badge)
-![VS Code Badge](https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode&style=for-the-badge)
+![VS Code Badge](https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode&style=for-the-badge&logo=VSCode&logoColor=white)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-%23F37626?logo=jupyter&style=for-the-badge)
 
 
