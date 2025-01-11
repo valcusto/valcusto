@@ -20,7 +20,7 @@ Feel free to browse my repositories and reach out to me if you'd like to collabo
   <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white" />
 </div>
 <div>
 <br />
