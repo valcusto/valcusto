@@ -4,7 +4,7 @@ I'm a researcher and data analyst interested in providing companies with insight
 
 I hold a bachelor's degree in Biology. During my PhD in molecular biology, I focused mainly on unraveling microbial and environmental cues that regulate maize development by generating and analyzing layers of omics and physiological datasets. 
 
-Throughout my research journey, I get access to learn R and Python programming languages and made me discover the world of statistics, data analysis, and machine learning.
+Throughout my research journey, I got access to R and Python programming languages, which made me discover the world of statistics, data analysis, and machine learning.
 
 Feel free to browse my repositories and reach out to me if you'd like to collaborate or discuss exciting projects!
 
