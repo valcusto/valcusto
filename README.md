@@ -50,7 +50,7 @@ Feel free to browse my repositories and reach out to me if you'd like to collabo
 
 **Solution:** To address this problem. I used descriptive analysis.
 
-**Conclusion:** In general, the order number increased, with some fluctuations. This fluctuation could be influenced by the number of unique customers,  customer number, the order number per unique customer, the order number per cart size, and the order distribution per ship mode.
+**Conclusion:** In general, the order number increased, with some fluctuations. This fluctuation could be explained by the number of unique customers,  customer number, the order number per unique customer, the order number per cart size, and the order distribution per ship mode.
 
 
 
