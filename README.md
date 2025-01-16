@@ -46,12 +46,11 @@ Feel free to browse my repositories and reach out to me if you'd like to collabo
 
 ## <a href="https://github.com/valcusto/descriptive_analysis_orders">Descriptive analysis</a>
 
-**Business problem:** B&H Photo Video is an American retailer specializing in photography and videography that operates primarily through online e-commerce. B&H intends to forecast the revenue for a campaign that involves offering a 10% discount on its mirrorless cameras.
+**Business problem:** Superstore is a supermarket chain that supplies various consumer products. Superstore intends to understand the performance of orders across the year.
 
-**Solution:** For this problem, I calculated the price elasticity of the products in the mirrorless camera category at B&H Photo Video.
+**Solution:** To address this problem. I used descriptive analysis.
 
-**Conclusion:** The price elasticity analysis of the products in the mirrorless camera category in B&H Photo and Video shows that from 13 products in this category, the Canon - EOS Rebel SL2 DSLR Camera Body Deluxe Kit and Panasonic - Lumix G85 Mirrorless Camera with 12-60mm Lens – Black have statistically significant price elasticity. Based on the price elasticity calculations conducted in this project, it is evident that the company has the potential to achieve a remarkable revenue growth of over 700%. 
-
+**Conclusion:** In general, the order number increased, with some fluctuations. This fluctuation could be influenced by the number of unique customers,  customer number, the order number per unique customer, the order number per cart size, and the order distribution per ship mode.
 
 
 
